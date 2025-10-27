@@ -1,0 +1,4 @@
+[submodule "packages/moodle-plugins/local_eventstack"]
+	path = packages/moodle-plugins/local_eventstack
+	url = git@github.com:psvent/moodle-local_eventstack.git
+	branch = main
